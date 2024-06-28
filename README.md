@@ -3,7 +3,7 @@ Given an unstable matrix $A$, i.e. with some eigenvalues in the right complex ha
 
 The codes implemented here refers to the paper: N. Guglielmi, S.Sicilia, "Stabilization of a matrix via a low-rank-adaptive ODE", https://arxiv.org/html/2402.14657v1
 
-The main function that returns the distance and the perturbation is 'Stabilize' and it can solve the both the unstructured and strucured problem, with adaptive-rank or fixed-rank integrator.
+The main function that returns the distance and the perturbation is 'Stabilize' and it can solve the both the unstructured and structured problem, with adaptive-rank or fixed-rank integrator.
 
 The folder 'utils' contains all the subfunctions needed by the main function 'Stabilize'.
 
