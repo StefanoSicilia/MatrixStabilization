@@ -9,6 +9,8 @@ The folder 'utils' contains all the subfunctions needed by the main function 'St
 
 The folder 'tests' contains the numerical experiments of the paper. 
 
+The folder 'example_matrices' contains the files with the matrices used in the tests.
+
 Before running any code, please run Install.m to have all paths added. 
 
 
